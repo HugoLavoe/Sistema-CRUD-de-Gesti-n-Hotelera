@@ -1,5 +1,5 @@
 # Sistema-CRUD-de-Gesti-n-Hotelera
-CRUD en PHP y MySQL para la gestión interna de empleados, clientes y habitaciones del Hotel Fiesta Inn.
+CRUD en PHP y MySQL para la gestión interna de empleados del Hotel Fiesta Inn.
 
 Este proyecto es un sistema CRUD (Create, Read, Update, Delete) desarrollado en **PHP** para la gestión interna del Hotel Fiesta Inn Parque Puebla.  
 Su objetivo es optimizar la administración de datos relacionados con **empleados, clientes, habitaciones y otros aspectos clave de la operación hotelera**, mejorando la eficiencia del personal de sistemas.
