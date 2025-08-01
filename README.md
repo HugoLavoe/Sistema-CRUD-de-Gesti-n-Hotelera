@@ -19,6 +19,3 @@ Su objetivo es optimizar la administración de datos relacionados con **empleado
 - Administración de datos de clientes y habitaciones.
 - Gestión de operaciones clave del hotel.
 - Interfaz intuitiva para el personal de sistemas y colaboradores.
-
-   ```bash
-   git clone https://github.com/TU_USUARIO/sistema-crud-fiesta-inn.git
